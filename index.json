@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "astroid",
+  "versions": [
+    {
+      "commit": "1eef6fa803056e75e240ad8ddef382a25322ff68",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:06:56.581456+00:00"
+    }
+  ]
+}
