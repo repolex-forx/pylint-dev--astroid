@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/astroid/commit/1eef6fa803056e75e240ad8ddef382a25322ff68",
       "git:hexsha": "1eef6fa803056e75e240ad8ddef382a25322ff68",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T10:06:56.580156+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/astroid/commit/82838274c88a35c799d32fc7fb8a87b6ba97b452",
